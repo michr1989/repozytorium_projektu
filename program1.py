@@ -6,3 +6,5 @@ print('232442xd')
 print('Michał')
 
 print('12345')
+
+print('Michał')
